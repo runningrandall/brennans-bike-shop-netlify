@@ -1,7 +1,7 @@
 .colorBackground {
   left: 50%;
   transform: translateX(-50%);
-  background: radial-gradient(
+  /* background: radial-gradient(
       at 71% 77%,
       var(--color-gradient-1) 0,
       transparent 21%
@@ -11,7 +11,7 @@
     radial-gradient(at 45% 51%, var(--color-gradient-1) 0, transparent 53%),
     radial-gradient(at 73% 44%, var(--color-gradient-2) 0, transparent 54%),
     radial-gradient(at 24% 7%, var(--color-gradient-2) 0, transparent 40%),
-    radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
+    radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%); */
   /* mix-blend-mode: normal; */
   max-height: 800px;
   height: 80vh;
