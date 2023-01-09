@@ -20,6 +20,9 @@ export default function Index({ posts, globalData }) {
         <p className='text-center'>
           The following is a list of bike services that we offer.
         </p>
+        <p>
+          Basic tune up 30 dollars, includes check all bolts, adjust brakes/derailure, basic bike wash. add ons</p>
+          tubeless sealant refresh 10 dollars per wheel. 
       </main>
       <Footer copyrightText={globalData.footerText} />
     </Layout>
